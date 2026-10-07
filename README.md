@@ -2,7 +2,7 @@
 
 Group: 4 
 
-Genre: [our genre] 
+Genre: drum-and-bass 
 
 Course: Machine Learning and AI internship, Thrive Campus
 
