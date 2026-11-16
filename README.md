@@ -124,10 +124,10 @@ The notebook runs from top to bottom with no errors and every random step uses `
 
 | Name | Role |
 |---|---|
-| [Regina Robertson] | [data cleaning] |
+| Regina Robertson | data cleaning |
 | [Member name] | [regression] |
 | [Member name] | [classification] |
-| [Member name] | [clustering and report] |
+| Obed Kwame Zar | clustering and report |
 
 Every member has commits in this repository.
 
