@@ -120,17 +120,6 @@ The notebook runs from top to bottom with no errors and every random step uses `
 
 ---
 
-## Team
-
-| Name | Role |
-|---|---|
-| Regina Robertson | data cleaning |
-| [Member name] | [regression] |
-| [Member name] | [classification] |
-| Obed Kwame Zar | clustering and report |
-
-Every member has commits in this repository.
-
 ## Use of an AI assistant
 
 We used an AI assistant (Claude) to explain errors and concepts and to help draft code and wording. We checked every result against our own outputs and can explain every step.
