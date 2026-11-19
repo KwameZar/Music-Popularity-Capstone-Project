@@ -1,4 +1,4 @@
-# Music Popularity Capstone Project: drum-and-bass
+# Music Popularity Capstone Project: drum-and-bass genre
 
 **Machine Learning and AI (Essentials), Thrive Campus | Group 4 (Vector Minds) | October 2026**
 
